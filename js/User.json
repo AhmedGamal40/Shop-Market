@@ -1,0 +1,19 @@
+[
+    {
+        "username":"Ahmed Gamal",
+        "email":"ahmed@gmail.com",
+        "password":"Ahmed@1234"
+        
+    },
+    {
+        "username":"Mahmoud Hassan",
+        "email":"mahmoud@gmail.com",
+        "password":"Ahmed@1234"
+    },
+    {
+        "username":"Ali Ragab",
+        "email":"alia@gmail.com",
+        "password":"Ahmed@1234"
+        
+    }
+]

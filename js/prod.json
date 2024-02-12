@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "Potatoes",
+    "price": 109.95,
+    "category": "Vegetables",
+    "image": "http://127.0.0.1:5500/imgJson/pro1.png",
+    "rating": { "rate": 3.9, "count": 120 }
+  },
+  {
+    "id": 2,
+    "title": "Bananas",
+    "price": 22.3,
+    "category": "Fruits",
+    "image": "http://127.0.0.1:5500/imgJson/pro2.png",
+    "rating": { "rate": 4.1, "count": 259 }
+  },
+  {
+    "id": 3,
+    "title": "Apples",
+    "price": 55.99,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "Fruits",
+    "image": "http://127.0.0.1:5500/imgJson/pro3.png",
+    "rating": { "rate": 4.7, "count": 500 }
+  },
+  {
+    "id": 4,
+    "title": "Tomatoes",
+    "price": 15.99,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category": "Vegetables",
+    "image": "http://127.0.0.1:5500/imgJson/pro4.png",
+    "rating": { "rate": 2.1, "count": 430 }
+  },
+  {
+    "id": 5,
+    "title": "Spinach",
+    "price": 695,
+    "category": "Vegetables",
+    "image": "http://127.0.0.1:5500/imgJson/pro5.png",
+    "rating": { "rate": 4.6, "count": 400 }
+  },
+  {
+    "id": 6,
+    "title": "Oranges",
+    "price": 168,
+    "category": "Fruits",
+    "image": "http://127.0.0.1:5500/imgJson/pro6.png",
+    "rating": { "rate": 3.9, "count": 70 }
+  },
+  {
+    "id": 7,
+    "title": "Mango",
+    "price": 9.99,
+    "category": "Fruits",
+    "image": "http://127.0.0.1:5500/imgJson/pro7.png",
+    "rating": { "rate": 3, "count": 400 }
+  },
+  {
+    "id": 8,
+    "title": "Watermelon",
+    "price": 10.99,
+    "category": "Fruits",
+    "image": "http://127.0.0.1:5500/imgJson/pro8.png",
+    "rating": { "rate": 1.9, "count": 100 }
+  },
+  {
+    "id": 9,
+    "title": "Peaches",
+    "price": 64,
+    "category": "Fruits",
+    "image": "http://127.0.0.1:5500/imgJson/pro9.png",
+    "rating": { "rate": 3.3, "count": 203 }
+  },
+  {
+    "id": 10,
+    "title": "Lemon",
+    "price": 109,
+    "category": "Fruits",
+    "image": "http://127.0.0.1:5500/imgJson/pro10.png",
+    "rating": { "rate": 2.9, "count": 470 }
+  },
+  {
+    "id": 11,
+    "title": "Strawberries",
+    "price": 109,
+    "category": "Fruits",
+    "image": "http://127.0.0.1:5500/imgJson/pro11.png",
+    "rating": { "rate": 4.8, "count": 319 }
+  },
+  {
+    "id": 12,
+    "title": "Onions",
+    "price": 114,
+    "category": "Vegetables",
+    "image": "http://127.0.0.1:5500/imgJson/pro12.png",
+    "rating": { "rate": 4.8, "count": 400 }
+  },
+  {
+    "id": 13,
+    "title": "Green beans",
+    "price": 599,
+    "category": "Vegetables",
+    "image": "http://127.0.0.1:5500/imgJson/pro13.png",
+    "rating": { "rate": 2.9, "count": 250 }
+  },
+  {
+    "id": 14,
+    "title": "Cantaloupe",
+    "price": 999.99,
+    "category": "Fruits",
+    "image": "http://127.0.0.1:5500/imgJson/pro14.png",
+    "rating": { "rate": 2.2, "count": 140 }
+  },
+  {
+    "id": 15,
+    "title": "Chicken",
+    "price": 56.99,
+    "category": "Fresh Meats",
+    "image": "http://127.0.0.1:5500/imgJson/pro15.png",
+    "rating": { "rate": 2.6, "count": 235 }
+  },
+  {
+    "id": 16,
+    "title": "Beef",
+    "price": 29.95,
+    "category": "Fresh Meats",
+    "image": "http://127.0.0.1:5500/imgJson/pro16.png",
+    "rating": { "rate": 2.9, "count": 340 }
+  },
+  {
+    "id": 17,
+    "title": "Pork",
+    "price": 39.99,
+    "category": "Fresh Meats",
+    "image": "http://127.0.0.1:5500/imgJson/pro17.png",
+    "rating": { "rate": 3.8, "count": 679 }
+  },
+  {
+    "id": 18,
+    "title": "Fish",
+    "price": 9.85,
+    "category": "Fresh Meats",
+    "image": "http://127.0.0.1:5500/imgJson/pro18.png",
+    "rating": { "rate": 4.7, "count": 130 }
+  },
+  {
+    "id": 19,
+    "title": "Pineapple",
+    "price": 7.95,
+    "category": "Fruits",
+    "image": "http://127.0.0.1:5500/imgJson/pro19.png",
+    "rating": { "rate": 4.5, "count": 146 }
+  },
+  {
+    "id": 20,
+    "title": "Cucumber",
+    "price": 12.99,
+    "category": "Vegetables",
+    "image": "http://127.0.0.1:5500/imgJson/pro20.png",
+    "rating": { "rate": 3.6, "count": 145 }
+  }
+]
